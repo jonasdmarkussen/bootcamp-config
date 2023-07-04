@@ -19,6 +19,7 @@ jobs:
                       CDF_CLUSTER: greenfield
                       # CDF Project name
                       CDF_PROJECT: cdf-bootcamp-06-test
+
                       # Azure AD tenant id
                       IDP_TENANT: 67d16f2f-c2de-4995-8986-73e78c21952f
                     - environment: prod
